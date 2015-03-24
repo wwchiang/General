@@ -1,0 +1,45 @@
+18,9
+4
+You're new aren't you?
+Use WASD to move around,
+and you can interact with other NPCs
+with Enter and Backspace!
+21,8
+4
+Don't walk around unarmed.
+The monsters here are tough.
+Press I to view your inventory,
+and use the 1-0 keys to equip stuff.
+31,4
+4
+I heard the Merchant has good stuff.
+It's a bit pricey for me...
+His shop is at the southeast part 
+of town by the river.
+8,14
+4
+A lot of heroes have gone into
+the forests and the caves lately.
+Not a lot of them have come back. 
+Maybe the monsters ate them?
+21,11
+2
+I'm thinking of moving soon. 
+This town gives me the spooks. 
+17, 4
+2
+I wish I was strong enough to 
+fight the monsters and beat them. 
+2,12
+3
+When you die, you lose money. 
+You'll revive at the your last spot.
+Does death even matter in this life?
+36,7
+2
+You should invest in a nice shield.
+The best offense is a good defense.
+35,7
+2
+A sharp blade is your best bet.
+The best defense is a good offense.

@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-10-14T01:00:15.0931463-07:00</Time>
+    </Item>
+    <Item>
+      <Source>cube.png</Source>
+      <Name>cube</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\cube.xnb</Output>
+      <Time>2014-10-21T15:22:51.4351703-07:00</Time>
+    </Item>
+    <Item>
+      <Source>triangle.png</Source>
+      <Name>triangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\triangle.xnb</Output>
+      <Time>2014-10-14T01:00:15.1261482-07:00</Time>
+    </Item>
+    <Item>
+      <Source>cake.png</Source>
+      <Name>cake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\cake.xnb</Output>
+      <Time>2014-10-25T02:15:18.8930015-07:00</Time>
+    </Item>
+    <Item>
+      <Source>startscreen.png</Source>
+      <Name>startscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\startscreen.xnb</Output>
+      <Time>2014-10-14T01:00:15.1171477-07:00</Time>
+    </Item>
+    <Item>
+      <Source>trap.png</Source>
+      <Name>trap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\trap.xnb</Output>
+      <Time>2014-10-16T09:50:31.366298-07:00</Time>
+    </Item>
+    <Item>
+      <Source>idleleft2.png</Source>
+      <Name>idleleft2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\idleleft2.xnb</Output>
+      <Time>2014-10-14T01:00:15.1091472-07:00</Time>
+    </Item>
+    <Item>
+      <Source>idleright2.png</Source>
+      <Name>idleright2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\idleright2.xnb</Output>
+      <Time>2014-10-14T01:00:15.1101473-07:00</Time>
+    </Item>
+    <Item>
+      <Source>walkleft2.png</Source>
+      <Name>walkleft2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\walkleft2.xnb</Output>
+      <Time>2014-10-14T01:00:15.1271482-07:00</Time>
+    </Item>
+    <Item>
+      <Source>walkright2.png</Source>
+      <Name>walkright2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\walkright2.xnb</Output>
+      <Time>2014-10-14T01:00:15.1291484-07:00</Time>
+    </Item>
+    <Item>
+      <Source>background1.png</Source>
+      <Name>background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\background1.xnb</Output>
+      <Time>2014-10-14T01:00:15.0971465-07:00</Time>
+    </Item>
+    <Item>
+      <Source>background2.png</Source>
+      <Name>background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\background2.xnb</Output>
+      <Time>2014-10-14T13:38:34.9938721-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tilebottom.png</Source>
+      <Name>tilebottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\tilebottom.xnb</Output>
+      <Time>2014-10-14T01:00:15.1181477-07:00</Time>
+    </Item>
+    <Item>
+      <Source>breakable.png</Source>
+      <Name>breakable</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\breakable.xnb</Output>
+      <Time>2014-10-21T15:22:51.4331702-07:00</Time>
+    </Item>
+    <Item>
+      <Source>unstable.png</Source>
+      <Name>unstable</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\unstable.xnb</Output>
+      <Time>2014-10-21T15:22:51.4561715-07:00</Time>
+    </Item>
+    <Item>
+      <Source>leaves.png</Source>
+      <Name>leaves</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\leaves.xnb</Output>
+      <Time>2014-10-14T13:38:34.9958722-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bounce.png</Source>
+      <Name>bounce</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\bounce.xnb</Output>
+      <Time>2014-10-14T22:35:36.6126648-07:00</Time>
+    </Item>
+    <Item>
+      <Source>playerdeath.png</Source>
+      <Name>playerdeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\playerdeath.xnb</Output>
+      <Time>2014-10-15T02:29:01.4536958-07:00</Time>
+    </Item>
+    <Item>
+      <Source>background3.png</Source>
+      <Name>background3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\background3.xnb</Output>
+      <Time>2014-10-15T02:29:01.439695-07:00</Time>
+    </Item>
+    <Item>
+      <Source>killertexture.png</Source>
+      <Name>killertexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\killertexture.xnb</Output>
+      <Time>2014-10-15T02:29:01.4436953-07:00</Time>
+    </Item>
+    <Item>
+      <Source>quitselect.png</Source>
+      <Name>quitselect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\quitselect.xnb</Output>
+      <Time>2014-10-16T07:52:31.0416322-07:00</Time>
+    </Item>
+    <Item>
+      <Source>startselect.png</Source>
+      <Name>startselect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\startselect.xnb</Output>
+      <Time>2014-10-16T07:52:31.0426323-07:00</Time>
+    </Item>
+    <Item>
+      <Source>key.png</Source>
+      <Name>key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\key.xnb</Output>
+      <Time>2014-10-21T15:22:51.4371704-07:00</Time>
+    </Item>
+    <Item>
+      <Source>saw.png</Source>
+      <Name>saw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\saw.xnb</Output>
+      <Time>2014-10-21T15:22:51.4521713-07:00</Time>
+    </Item>
+    <Item>
+      <Source>lock.png</Source>
+      <Name>lock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\lock.xnb</Output>
+      <Time>2014-10-22T19:39:17.3937052-07:00</Time>
+    </Item>
+    <Item>
+      <Source>endcard.png</Source>
+      <Name>endcard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\endcard.xnb</Output>
+      <Time>2014-10-25T01:20:29.4913775-07:00</Time>
+    </Item>
+    <Item>
+      <Source>instructions.png</Source>
+      <Name>instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\instructions.xnb</Output>
+      <Time>2014-10-25T02:15:18.8940015-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level0.xml</Source>
+      <Name>Level0</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\Level0.xnb</Output>
+      <Time>2014-10-24T14:48:32.1163573-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1.xml</Source>
+      <Name>Level1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\Level1.xnb</Output>
+      <Time>2014-10-24T14:48:32.1173573-07:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelInfo0.xml</Source>
+      <Name>LevelInfo0</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\LevelInfo0.xnb</Output>
+      <Time>2014-10-24T15:59:56.8290961-07:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelInfo1.xml</Source>
+      <Name>LevelInfo1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\LevelInfo1.xnb</Output>
+      <Time>2014-10-24T16:05:02.351571-07:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelInfo2.xml</Source>
+      <Name>LevelInfo2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\LevelInfo2.xnb</Output>
+      <Time>2014-10-25T02:15:11.0625536-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level2.xml</Source>
+      <Name>Level2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\Level2.xnb</Output>
+      <Time>2014-10-25T02:15:18.8890012-07:00</Time>
+    </Item>
+    <Item>
+      <Source>shader.fx</Source>
+      <Name>shader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\shader.xnb</Output>
+      <Time>2014-10-24T16:07:53.0423339-07:00</Time>
+    </Item>
+    <Item>
+      <Source>jump.wav</Source>
+      <Name>jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\jump.xnb</Output>
+      <Time>2014-10-15T17:36:14.5419144-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Goblin.wav</Source>
+      <Name>Goblin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\Goblin.xnb</Output>
+      <Time>2014-10-15T17:53:03.0946003-07:00</Time>
+    </Item>
+    <Item>
+      <Source>meow.wav</Source>
+      <Name>meow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\meow.xnb</Output>
+      <Time>2014-10-16T07:52:31.038632-07:00</Time>
+    </Item>
+    <Item>
+      <Source>collapsing.wav</Source>
+      <Name>collapsing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\collapsing.xnb</Output>
+      <Time>2014-10-24T04:44:39.5615159-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fan.wav</Source>
+      <Name>fan</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\fan.xnb</Output>
+      <Time>2014-10-15T18:40:18.5107768-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menuenter.wav</Source>
+      <Name>menuenter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\menuenter.xnb</Output>
+      <Time>2014-10-16T07:52:31.0306316-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menuselect.wav</Source>
+      <Name>menuselect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\menuselect.xnb</Output>
+      <Time>2014-10-16T07:52:31.0346318-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bouncesound.wav</Source>
+      <Name>bouncesound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\bouncesound.xnb</Output>
+      <Time>2014-10-16T07:52:31.0276314-07:00</Time>
+    </Item>
+    <Item>
+      <Source>keyget.wav</Source>
+      <Name>keyget</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\keyget.xnb</Output>
+      <Time>2014-10-24T04:44:39.5745166-07:00</Time>
+    </Item>
+    <Item>
+      <Source>wallbreak.wav</Source>
+      <Name>wallbreak</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\wallbreak.xnb</Output>
+      <Time>2014-10-24T04:44:39.5855173-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Darkness_Pt_1v2.mp3</Source>
+      <Name>Darkness_Pt_1v2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\Darkness_Pt_1v2.xnb</Output>
+      <Extra>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\Darkness_Pt_1v2.wma</Extra>
+      <Time>2014-10-15T17:43:15.6890026-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{28B8A2EA-C656-425C-ACA0-5CDB1B562D1D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\Project2\Project2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\ccclayton\Documents\Game Development\Game-Engineering\Game-Engineering\Project2\WindowsGameLibrary1\bin\x86\Debug\WindowsGameLibrary1.dll</Key>
+        <Value>2014-10-25T02:15:18.9060022-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-02T01:23:05.5780876-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

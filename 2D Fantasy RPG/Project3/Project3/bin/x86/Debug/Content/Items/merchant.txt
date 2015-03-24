@@ -1,0 +1,30 @@
+Items/Consumables/potion_red Red_Potion 20 12 false true false
+Items/Consumables/whiskey Whiskey 15 10 false true false
+Items/Consumables/wine Aged_Wine 25 15 false true false
+Items/Consumables/vodka Vodka 30 20 false true false
+Items/Consumables/moonshine Moonshine 50 35 false true false
+Items/Consumables/the_stuff Potent_Rum 60 40 false true false
+Items/Consumables/absinthe Absinthe 80 60 false true false
+Items/Consumables/everclear Everclear 100 100 false true false
+Items/Weapons/stick Sharp_Stick 6 2 false false true 1
+Items/Weapons/dagger_small Small_Dagger 20 3 false false true 1
+Items/Weapons/dagger_curved Curved_Dagger 30 4 false false true 1
+Items/Weapons/cudgel Cudgel 35 5 false false true 2
+Items/Weapons/axe Axe 50 7 false false true 3
+Items/Weapons/club Club 75 11 false false true 3
+Items/Weapons/longsword Long_Sword 150 15 false false true 2
+Items/Weapons/mace Mace 175 17 false false true 3
+Items/Weapons/axe_curved Curved_Axe 200 22 false false true 5
+Items/Weapons/scimitar Scimitar 250 25 false false true 3
+Items/Weapons/katana Katana 450 40 false false true 1
+Items/Weapons/flail Flail 400 30 false false true 4
+Items/Shields/shield_wooden Plank_Shield 35 3 true false false 2
+Items/Shields/shield_leather Leather_Shield 55 5 true false false 2
+Items/Shields/shield_buckler Buckler 80 7 true false false 3
+Items/Shields/shield_standard Kiteshield 110 9 true false false 3
+Items/Shields/shield_target Target_Shield 150 11 true false false 3
+Items/Shields/shield_target_red Hardened_Shield 180 14 true false false 3
+Items/Shields/shield_blue Mithril_Shield 220 20 true false false 4
+Items/Shields/shield_red Adamant_Shield 250 24 true false false 4
+Items/Shields/shield_tower_gray Steel_Tower 270 30 true false false 5
+Items/Shields/shield_tower_green Victor's_Shield 500 50 true false false 3

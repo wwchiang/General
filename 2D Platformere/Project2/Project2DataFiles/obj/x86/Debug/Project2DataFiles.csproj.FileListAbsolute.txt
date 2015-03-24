@@ -1,0 +1,5 @@
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\Project2DataFiles\bin\x86\Debug\Project2DataFiles.dll
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\Project2DataFiles\bin\x86\Debug\Project2DataFiles.pdb
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\Project2DataFiles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\Project2DataFiles\obj\x86\Debug\Project2DataFiles.dll
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\Project2DataFiles\obj\x86\Debug\Project2DataFiles.pdb

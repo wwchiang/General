@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Project2.MapTileData[]">
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>8 5</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>9 5</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>10 5</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>unstable</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>true</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>11 5</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>8 4</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>8 3</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>breakable</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>true</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>9 3</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>breakable</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>true</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>10 3</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>2 2</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>8 2</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>2 1</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>bounce</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>true</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>7 1</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>8 1</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cake</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>true</isCake>
+      <mapPosition>14 1</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>0 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>1 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>2 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>3 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>4 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>5 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>6 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>7 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>8 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>9 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>10 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>11 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>cube</tileTexture>
+      <isTrap>false</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>12 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>trap</tileTexture>
+      <isTrap>true</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>13 0</mapPosition>
+    </Item>
+    <Item>
+      <tileTexture>trap</tileTexture>
+      <isTrap>true</isTrap>
+      <isBouncy>false</isBouncy>
+      <isBreakable>false</isBreakable>
+      <isUnstable>false</isUnstable>
+      <isCake>false</isCake>
+      <mapPosition>14 0</mapPosition>
+    </Item>
+  </Asset>
+</XnaContent>

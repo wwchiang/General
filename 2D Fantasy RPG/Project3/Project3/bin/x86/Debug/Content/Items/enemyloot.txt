@@ -1,0 +1,30 @@
+Items/Weapons/stick Sharp_Stick 10 3 false false true 1
+Items/Weapons/axe Axe 30 6 false false true 3
+Items/Weapons/club Club 45 8 false false true 3
+Items/Weapons/longsword Long_Sword 70 12 false false true 2
+Items/Weapons/mace Mace 55 9 false false true 3
+Items/Shields/shield_leather Leather_Shield 35 7 true false false 3
+Items/Shields/shield_buckler Buckler 80 9 true false false 3
+Items/Shields/shield_standard Kiteshield 110 11 true false false 3
+Items/Junk/animal_skin Animal_Skin 6 0 false false false
+Items/Junk/broken_helmet Broken_Helmet 8 0 false false false
+Items/Junk/fake_gold Fools_Gold 20 0 false false false
+Items/Junk/fluff Fluff 5 0 false false false
+Items/Junk/frayed_belt Frayed_Belt 7 0 false false false
+Items/Junk/gold_bracelet Gold_Bracelet 300 0 false false false
+Items/Junk/gold_nugget Gold_Nugget 180 0 false false false
+Items/Junk/green_gel_block Green_Gel_Block 20 0 false false false
+Items/Junk/green_gel_drop Green_Gel_Drop 10 0 false false false
+Items/Junk/horn Sharp_Horn 15 0 false false false
+Items/Junk/ice_gel Ice_Gel 70 0 false false false
+Items/Junk/lump_of_something Mysterious_Lump 40 0 false false false
+Items/Junk/old_hat Old_Hat 42 0 false false false
+Items/Junk/old_mitts Worn_Mittens 14 0 false false false
+Items/Junk/old_mug Old_Mug 10 0 false false false
+Items/Junk/raw_hide Raw_Hide 9 0 false false false
+Items/Junk/sack_of_gold Sack_of_Gold 250 0 false false false
+Items/Junk/scales Dark_Scales 45 0 false false false
+Items/Junk/silver_hoops Silver_Hoops 100 0 false false false
+Items/Junk/skull Skull 18 0 false false false
+Items/Junk/smelly_shoes Smelly_Shoes 8 0 false false false
+Items/Junk/tooth Small_Tooth 10 0 false false false

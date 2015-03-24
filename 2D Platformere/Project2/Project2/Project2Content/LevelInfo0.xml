@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Project2.LevelInfo">
+    <x>4800</x>
+    <y>640</y>
+    <backgroundTexture>background1</backgroundTexture>
+    <hasTexture>false</hasTexture>
+    <texture>null</texture>
+    <shader1>Pass1</shader1>
+    <shader2>Pass2</shader2>
+  </Asset>
+</XnaContent>

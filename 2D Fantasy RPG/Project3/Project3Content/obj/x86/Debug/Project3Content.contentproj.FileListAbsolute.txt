@@ -1,0 +1,8 @@
+C:\Users\willi_000\Desktop\Project 3\game-engineering-project-3\Project3\Project3\Project3Content\obj\x86\Debug\Project3Content.contentprojResolveAssemblyReference.cache
+C:\Users\ccclayton\Desktop\game-engineering-project-3\Project3\Project3\Project3Content\obj\x86\Debug\Project3Content.contentprojResolveAssemblyReference.cache
+C:\Users\William\Documents\Project 3\game-engineering-project-3\Project3\Project3\Project3Content\obj\x86\Debug\Project3Content.contentprojResolveAssemblyReference.cache
+C:\Users\Diana\Documents\GitHub\cs420\game-engineering-project-3\Project3\Project3\Project3Content\obj\x86\Debug\Project3Content.contentprojResolveAssemblyReference.cache
+C:\Users\willi_000\Desktop\RPGFIX\game-engineering-project-3\Project 3 RPG\Project3\Project3Content\obj\x86\Debug\Project3Content.contentprojResolveAssemblyReference.cache
+C:\Users\willi_000\Desktop\Project 3 RPG\game-engineering-project-3\Project 3 RPG\Project3\Project3Content\obj\x86\Debug\Project3Content.contentprojResolveAssemblyReference.cache
+C:\Users\Diana\Documents\GitHub\cs420\game-engineering-project-3\Project 3 RPG\Project3\Project3Content\obj\x86\Debug\Project3Content.contentprojResolveAssemblyReference.cache
+C:\Users\William\Documents\PROJECT TRES\game-engineering-project-3\Project 3 RPG\Project3\Project3Content\obj\x86\Debug\Project3Content.contentprojResolveAssemblyReference.cache

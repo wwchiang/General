@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "Project2\Project2\Project2.csproj", "{4BA9CCAF-50D5-4D67-97B4-8E98C0E8A653}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2E9E9E8F-22D1-46B6-A1C0-3003E50D829B} = {2E9E9E8F-22D1-46B6-A1C0-3003E50D829B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2Content", "Project2\Project2Content\Project2Content.contentproj", "{28B8A2EA-C656-425C-ACA0-5CDB1B562D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFiles", "WindowsGameLibrary1\DataFiles.csproj", "{2E9E9E8F-22D1-46B6-A1C0-3003E50D829B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA9CCAF-50D5-4D67-97B4-8E98C0E8A653}.Debug|x86.ActiveCfg = Debug|x86
+		{4BA9CCAF-50D5-4D67-97B4-8E98C0E8A653}.Debug|x86.Build.0 = Debug|x86
+		{4BA9CCAF-50D5-4D67-97B4-8E98C0E8A653}.Release|x86.ActiveCfg = Release|x86
+		{4BA9CCAF-50D5-4D67-97B4-8E98C0E8A653}.Release|x86.Build.0 = Release|x86
+		{28B8A2EA-C656-425C-ACA0-5CDB1B562D1D}.Debug|x86.ActiveCfg = Debug|x86
+		{28B8A2EA-C656-425C-ACA0-5CDB1B562D1D}.Release|x86.ActiveCfg = Release|x86
+		{2E9E9E8F-22D1-46B6-A1C0-3003E50D829B}.Debug|x86.ActiveCfg = Debug|x86
+		{2E9E9E8F-22D1-46B6-A1C0-3003E50D829B}.Debug|x86.Build.0 = Debug|x86
+		{2E9E9E8F-22D1-46B6-A1C0-3003E50D829B}.Release|x86.ActiveCfg = Release|x86
+		{2E9E9E8F-22D1-46B6-A1C0-3003E50D829B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\WindowsGameLibrary1\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\WindowsGameLibrary1\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\WindowsGameLibrary1\obj\x86\Debug\WindowsGameLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\WindowsGameLibrary1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\WindowsGameLibrary1\obj\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\Diana\Documents\GitHub\cs420\Game-Engineering\Project2\WindowsGameLibrary1\obj\x86\Debug\WindowsGameLibrary1.pdb

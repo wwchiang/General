@@ -1,0 +1,3 @@
+Items/Weapons/stick Sharp_Stick 6 2 false false true 1
+Items/Shields/shield_wooden Wood_Shield 15 1 true false false 2
+Items/Consumables/whiskey Whiskey 15 10 false true false
