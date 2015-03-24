@@ -1,0 +1,335 @@
+{
+  "name": "Physical Fitness",
+  "children": [
+    {
+      "name": "Powerlifting",
+      "children": [
+        {
+          "name": "StrongLifts 5x5 by Mehdi",
+          "children": [
+            {
+              "name": "Day A",
+              "children": [
+                {
+                  "name": "Squat 5x5"
+                },
+                {
+                  "name": "Bench Press 5x5"
+                },
+                {
+                  "name": "Deadlifts 1x5"
+                }
+              ]
+            },
+            {
+              "name": "Day B",
+              "children": [
+                {
+                  "name": "Squat 5x5"
+                },
+                {
+                  "name": "Overhead Press 5x5"
+                },
+                {
+                  "name": "Barbell Row 5x5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ICF 5x5 by Jason Blaha",
+          "children": [
+            {
+              "name": "Workout A",
+              "children": [
+                {
+                  "name": "Squats 5x5"
+                },
+                {
+                  "name": "Bench Press 5x5"
+                },
+                {
+                  "name": "Barbell Row 5x5"
+                },
+                {
+                  "name": "Barbell Shrugs 3x8"
+                },
+                {
+                  "name": "Tricep Extensions 3x8"
+                },
+                {
+                  "name": "Barbell Curls 3x8"
+                },
+                {
+                  "name": "Cable Crunches 3x10"
+                }
+              ]
+            },
+            {
+              "name": "Workout B",
+              "children": [
+                {
+                  "name": "Squats 5x5"
+                },
+                {
+                  "name": "Bench Press 5x5"
+                },
+                {
+                  "name": "Deadlift 1x5"
+                },
+                {
+                  "name": "Barbell Row 5x5"
+                },
+                {
+                  "name": "Closegrip Bench 3x8"
+                },
+                {
+                  "name": "Barbell Curls 3x8"
+                },
+                {
+                  "name": "Cable Crunches 3x10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Candito Linear by Jonnie Candito",
+          "children": [
+            {
+              "name": "Squat 3x6"
+            },
+            {
+              "name": "Deadlift 2x6"
+            },
+            {
+              "name": "Spoto Press 6x4"
+            },
+            {
+              "name": "Bicep Curl 1x10"
+            },
+            {
+              "name": "Barbell Pull/Barbell Row 3x6"
+            },
+            {
+              "name": "Shoulder Press 1x10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bodybuilding",
+      "children": [
+        {
+          "name": "German Volume Training",
+          "children": [
+            {
+              "name": "Dumbbell Bench Press 10x10"
+            },
+            {
+              "name": "Barbell Row 10x10"
+            },
+            {
+              "name": "Incline Bench Press 3x10"
+            },
+            {
+              "name": "Squats 10x10"
+            },
+            {
+              "name": "Standing Calf Raise 3x10"
+            },
+            {
+              "name": "Hanging Leg Raise 3x12"
+            },
+            {
+              "name": "Barbell Shoulder Press 10x10"
+            },
+            {
+              "name": "Dumbbell Curl 3x12"
+            },
+            {
+              "name": "Cable Tricep Extension 3x12"
+            }
+          ]
+        },
+        {
+          "name": "Power Bodybuilding by Mike O'Hearn",
+          "children": [
+            {
+              "name": "Monday - Chest, Triceps, Shoulders",
+              "children": [
+                {
+                  "name": "Warm Up Exercises",
+                  "children": [
+                    {
+                      "name": "Incline Bench Press 3x10"
+                    }
+                  ]
+                },
+                {
+                  "name": "Working Sets",
+                  "children": [
+                    {
+                      "name": "Incline Bench Press 6x5"
+                    },
+                    {
+                      "name": "Dumbbell Bench Press 4x10"
+                    },
+                    {
+                      "name": "Incline Dumbbell Flys 3x8"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cardio",
+                  "children": [
+                    {
+                      "name": "Jogging/Treadmill 30 Minutes"
+                    },
+                    {
+                      "name": "Crunches 5x10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Tuesday - Legs",
+              "children": [
+                {
+                  "name": "Warm Up Exercises",
+                  "children": [
+                    {
+                      "name": "Barbell Squat 1-3 sets, light"
+                    }
+                  ]
+                },
+                {
+                  "name": "Working Sets",
+                  "children": [
+                    {
+                      "name": "Barbell Squat 7x3, heavy"
+                    },
+                    {
+                      "name": "Leg Press 5x10, heavy"
+                    },
+                    {
+                      "name": "Leg Extensions 3x8, heavy"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cardio",
+                  "children": [
+                    {
+                      "name": "Jogging/Treadmill 30 Minutes"
+                    },
+                    {
+                      "name": "Crunches 5x10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Wednesday - Shoulders",
+              "children": [
+                {
+                  "name": "Working Sets",
+                  "children": [
+                    {
+                      "name": "Military Press 3x8"
+                    },
+                    {
+                      "name": "Upright Barbell Row 3x8"
+                    },
+                    {
+                      "name": "Upright Dumbbell Row 3x8"
+                    },
+                    {
+                      "name": "Side Lateral Raise 4x12"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Thursday - Arms",
+              "children": [
+                {
+                  "name": "Working Sets",
+                  "children": [
+                    {
+                      "name": "Barbell Curl 3x8"
+                    },
+                    {
+                      "name": "Preacher Curl 3x12"
+                    },
+                    {
+                      "name": "Skullcrusher Triceps Press 4x12"
+                    },
+                    {
+                      "name": "Triceps Pushdown"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cardio",
+                  "children": [
+                    {
+                      "name": "Jogging/Treadmill 30 Minutes"
+                    },
+                    {
+                      "name": "Crunches 5x10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Friday - Back",
+              "children": [
+                {
+                  "name": "Warm Up Exercises",
+                  "children": [
+                    {
+                      "name": "Deadlift 1x3, low weight"
+                    }
+                  ]
+                },
+                {
+                  "name": "Working Sets",
+                  "children": [
+                    {
+                      "name": "Deadlift 7x2, heavy weight"
+                    },
+                    {
+                      "name": "Alternating Dumbbell Row 5x10, heavy weight"
+                    },
+                    {
+                      "name": "Lateral Pulldowns 3x8, heavy weight"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cardio",
+                  "children": [
+                    {
+                      "name": "Jogging/Treadmill 30 Minutes"
+                    },
+                    {
+                      "name": "Crunches 5x10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
